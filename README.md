@@ -62,9 +62,3 @@ The system generates a `road_report.csv` file within the `MPU6500` folder. This 
 
 ## 📜 Research Context
 This project was developed as a prototype for automated road infrastructure monitoring. It addresses the limitations of manual road inspections by providing a low-cost, high-accuracy, and scalable alternative for local government units (LGUs).
-
-## 👥 Contributors
-* **Moraca, Angelica Mae I.**
-* **Gonzales, Reginald Christian V.**
-* **Lumibao, Czer Dominic B**
-* **Lopez, Lorenzo Paul F.**
