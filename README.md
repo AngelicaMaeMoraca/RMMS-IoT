@@ -66,5 +66,5 @@ This project was developed as a prototype for automated road infrastructure moni
 ## 👥 Contributors
 * **Moraca, Angelica Mae I.**
 * **Gonzales, Reginald Christian V.**
-* **Lumibao, Czer Dominic**
+* **Lumibao, Czer Dominic B**
 * **Lopez, Lorenzo Paul F.**
